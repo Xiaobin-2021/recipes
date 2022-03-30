@@ -1,6 +1,6 @@
 #ingredients
 - avicado
-- lemon
+- lemin
 - salt
 - sugar
 #instructions
